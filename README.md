@@ -9,6 +9,6 @@ Ich baue kleine, praktische Werkzeuge für Alltag, Verein und Familie – meist 
 - 📜 [nachlassverwaltung](https://github.com/listiges-kaenguru/nachlassverwaltung) – Vorlage „Digitaler Nachlass“ mit lokaler Weboberfläche zum Ausfüllen (Python)
 - 📋 [cheatsheets](https://github.com/listiges-kaenguru/cheatsheets) – schnelle, barrierearme Cheatsheet-Sammlung für Linux, Netzwerk, Container & Co.
 
-**Außerdem** bastle ich in meinem Homelab an Home Assistant und ESPHome, einem Minecraft-Netzwerk auf dem Raspberry Pi und einer Next.js-App für Ausflugsziele.
+**Außerdem** bastle ich in meinem Homelab an Home Assistant und ESPHome, einem Minecraft-Netzwerk auf dem Raspberry Pi und einer PWA für Ausflugsziele.
 
 **Werkzeuge:** Linux · Git · JavaScript · PHP · Python · Next.js · Home Assistant · Raspberry Pi
