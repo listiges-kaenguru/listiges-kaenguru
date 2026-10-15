@@ -11,11 +11,11 @@ Ich baue kleine, praktische Werkzeuge für Alltag, Verein und Familie – meist 
 - 🐔 [Gackerhof](https://github.com/listiges-kaenguru/gackerhof) – Aufbauspiel rund um die Hühnerhaltung, für Handy und Desktop · [Spielen](https://gackerhof.schmaralde.de/) · [Anleitung](https://gackerhof-wiki.schmaralde.de/)
 - 💶 [AuslagenFlow](https://github.com/listiges-kaenguru/auslagenflow) – von der Auslage bis zur Erstattung: Vereinsmitglieder reichen Auslagen mit Beleg bei der Kasse ein, zum Selbst-Hosten (PHP, MySQL, Passkeys) · [Homepage](https://auslagenflow.schmaralde.de/) · [Anleitung](https://auslagenflow.schmaralde.de/anleitung/)
 - 📋 [Cheatsheets](https://github.com/listiges-kaenguru/cheatsheets) – schnelle, barrierearme Spickzettel für Linux, Netzwerk, Container & Co. · [Online](https://cheatsheets.schmaralde.de/)
+- 🧰 [Ausflugskiste](https://github.com/listiges-kaenguru/ausflugskiste) – deine Schatzkiste für freie Tage: Ausflugsziele sammeln, bewerten und per „Wohin heute?“ wiederfinden, noch in Entwicklung
 
 **Außerdem**
 
 - 📜 [nachlassverwaltung](https://github.com/listiges-kaenguru/nachlassverwaltung) – Vorlage „Digitaler Nachlass“ mit lokaler Weboberfläche zum Ausfüllen (Python)
-- 🧰 [Ausflugskiste](https://github.com/listiges-kaenguru/ausflugskiste) – deine Schatzkiste für freie Tage: Ausflugsziele sammeln, bewerten und per „Wohin heute?“ wiederfinden, noch in Entwicklung
 - 🏠 Im Homelab: Home Assistant und ESPHome, ein Minecraft-Netzwerk auf dem Raspberry Pi
 
 **Werkzeuge:** Linux · Git · JavaScript · PHP · Python · Next.js · Home Assistant · Raspberry Pi
