@@ -15,7 +15,7 @@ Ich baue kleine, praktische Werkzeuge für Alltag, Verein und Familie – meist 
 **Außerdem**
 
 - 📜 [nachlassverwaltung](https://github.com/listiges-kaenguru/nachlassverwaltung) – Vorlage „Digitaler Nachlass“ mit lokaler Weboberfläche zum Ausfüllen (Python)
-- 🗺️ [ausflugsziele](https://github.com/listiges-kaenguru/ausflugsziele) – PWA für die eigene Sammlung an Ausflugszielen, noch in Entwicklung
+- 🧰 [Ausflugskiste](https://github.com/listiges-kaenguru/ausflugskiste) – deine Schatzkiste für freie Tage: Ausflugsziele sammeln, bewerten und per „Wohin heute?“ wiederfinden, noch in Entwicklung
 - 🏠 Im Homelab: Home Assistant und ESPHome, ein Minecraft-Netzwerk auf dem Raspberry Pi
 
 **Werkzeuge:** Linux · Git · JavaScript · PHP · Python · Next.js · Home Assistant · Raspberry Pi
